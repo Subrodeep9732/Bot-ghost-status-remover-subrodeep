@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening to Royal S Gaming","Playing Genshin Impact"];
+const statusMessages = ["Listening to Royal S Gaming"];
 
 
 let currentIndex = 0;
